@@ -10,7 +10,7 @@ To date, I am quite proficient in Python overall, and am actively learning Java 
 
 # Technology Preferences & Knowledge
 
-Currently, I am a heavy user of macOS (latest release is Monterrey 12.3 as of updating this) and Microsoft Windows 11. I am running macOS on a 2020 model Apple MacBook Pro (ARM-based M1 processor, 512GB storage, 16GB RAM configuration), and Windows 11 on a custom-built tower (Intel Core i9-9900K, 16GB DDR4-3200 RAM, NVIDIA GTX 1650 SUPER 4GB graphics, and 1TB SSD/4TB HDD storage). I am satisfied with such a setup; I currently find no issues or inconveniences in either operating system, with respect to development and general use. 
+Currently, I am a heavy user of macOS (latest release is Monterrey 12.3 as of updating this) and Microsoft Windows 11. I am running macOS on a 2020 model Apple MacBook Pro (ARM-based M1 processor, 512GB storage, 16GB RAM), and Windows 11 on a custom-built tower (Intel Core i9-9900K, 16GB DDR4-3200 RAM, NVIDIA GTX 1650 SUPER 4GB graphics, and 1TB SSD/4TB HDD storage). I am satisfied with such a setup; I currently find no issues or inconveniences in either operating system, with respect to development and general use. 
 
 On occassion, I will utilize Linux, particularly Manjaro and Ubuntu (and Arch on even rarer occasions when I am able to accomplish a successful installation) on older machines in my possession. As a result, I have intermediate knowledge with navigating various Linux operating systems and desktop environments, such as KDE, XCFE, Plasma, and GNOME.
 
