@@ -14,6 +14,14 @@ Currently, I am simultaneously a heavy user of Apple macOS (latest release is Mo
 
 On occassion, I will utilize Linux, particularly Manjaro and Ubuntu (and Arch on even rarer occasions when I am able to accomplish a successful installation) on older machines in my possession. As a result, I have intermediate knowledge with navigating various Linux operating systems and desktop environments, such as KDE, XCFE, Plasma, and GNOME.
 
+# Experience
+
+On an on/off basis through the 2010s, I experimented with several projects in RobloxStudio, which often entailed the Lua language. Such activites typically involved modification of and various explorative measures using code already written for projects available for public use. My skills with Lua are elementary.
+
+Through late 2018 and early 2019, I was heavily involved in my high school's Robotics Club, where my position was that of the Lead Coder. Under tense time constraints, often in the midst of actual tournaments, I would write and modify code written in the language RobotC in the interest of permitting our desgined robot to perform the tasks required. This typically yielded successful outcomes.
+
+In 2020, I received a score of 4 on my AP Computer Science Principles project/portfolio.
+
 <!---
 wjeff1648/wjeff1648 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
