@@ -1,4 +1,4 @@
-# Who I am & What I Do
+# Who I Am & What I Do
 
 Hello, I’m Jeff/Jeffrey W.
 
