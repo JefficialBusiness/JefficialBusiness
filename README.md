@@ -10,7 +10,7 @@ To date, I am quite proficient in Python coding overall, and am actively learnin
 
 # Technology Preferences
 
-Currently, I am a heavy user of macOS (latest release is Monterrey 12.3 as of updating this) and Microsoft Windows 11. I am running macOS on an ARM-based M1 Apple MacBook Pro with a 512GB storage/16GB RAM configuration, and Windows 11 on a custom-built PC with an Intel Core i9-9900K, 16GB of DDR4-3200 RAM, and 1TB SSD/4TB HDD storage. I currently find no issues or inconveniences in either operating system, and so I am not considering any migrations. From time to time, I will utilize Manjaro and Ubuntu (and Arch on even rarer occasions when I am able to accomplish a successful installation) on older machines in my possession.
+Currently, I am a heavy user of macOS (latest release is Monterrey 12.3 as of updating this) and Microsoft Windows 11. I am running macOS on an ARM-based M1 Apple MacBook Pro with a 512GB storage/16GB RAM configuration, and Windows 11 on a custom-built tower (Intel Core i9-9900K, 16GB DDR4-3200 RAM, NVIDIA GTX 1650 SUPER 4GB graphics, and 1TB SSD/4TB HDD storage). I currently find no issues or inconveniences in either operating system, and so I am not considering any migrations. From time to time, I will utilize Manjaro and Ubuntu (and Arch on even rarer occasions when I am able to accomplish a successful installation) on older machines in my possession.
 
 <!---
 wjeff1648/wjeff1648 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
