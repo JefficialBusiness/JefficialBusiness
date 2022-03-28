@@ -2,7 +2,7 @@
 
 Hello, I’m Jeff/Jeffrey W.
 
-I am an aspiring programmer who is studying at American University in Washington, D.C., hoping to become a freelance programmer and securing lucrative job positions that entail the development of software in particular.
+I am an aspiring programmer who is studying at American University in Washington, D.C., hoping to become a freelance programmer and/or securing lucrative job positions (I mean this in the sense that I am able to continue to learn while being paid) that entail the development of software in particular.
 
 # What Languages I Know
 
