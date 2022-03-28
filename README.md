@@ -18,7 +18,7 @@ On occassion, I will utilize Linux, particularly Manjaro and Ubuntu (and Arch on
 
 On an on/off basis through the 2010s, I experimented with several projects in RobloxStudio, which often entailed the Lua language. Such activites typically involved modification of and various explorative measures using code already written for projects available for public use. My skills with Lua are elementary.
 
-Through late 2018 and early 2019, I was heavily involved in my high school's Robotics Club, where my position was that of the Lead Coder. Under tense time constraints, often in the midst of actual tournaments, I would write and modify code written in the language RobotC in the interest of permitting our desgined robot to perform the tasks required. This typically yielded successful outcomes.
+Through late 2018 and early 2019, I was heavily involved in my high school's Robotics Club, where my position was that of Lead Coder. Under tense time constraints, often in the midst of actual tournaments, I would write and modify code written in the language RobotC in the interest of permitting our desgined robot to perform the tasks required. This typically yielded successful outcomes.
 
 In 2020, I received a score of 4 on my AP Computer Science Principles project/portfolio.
 
