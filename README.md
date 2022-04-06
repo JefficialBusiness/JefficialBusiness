@@ -16,7 +16,7 @@ Currently, I am simultaneously a heavy user of Apple macOS (latest release is Mo
 
 On occassion, I will utilize Linux, particularly Manjaro and Ubuntu (and Arch on even rarer occasions when I am able to accomplish a successful installation) on older machines in my possession. As a result, I have intermediate knowledge with navigating various Linux operating systems and desktop environments, such as KDE, XCFE, Plasma, and GNOME.
 
-Currently, I run Ubuntu on a 2013 Dell Precision T3610 workstation (Intel Xeon E5-1607v2, 16GB DDR3-1600 RAM, AMD FirePro W5000 2GB GPU, 256GB SSD/1TB HDD storage), which serves as my third primary machine.
+Currently, I run Ubuntu on a 2013 Dell Precision T3610 workstation (Intel Xeon E5-1607v2, 16GB DDR3-1600 RAM, AMD FirePro W5000 2GB GPU, 256GB SSD/1TB HDD storage), which serves as my third primary machine for work.
 
 # Experience
 
