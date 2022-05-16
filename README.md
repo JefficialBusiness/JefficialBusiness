@@ -4,7 +4,7 @@ Hello, I’m Lou (or Jeffrey).
 
 I am an aspiring programmer who is studying at American University (AU) in Washington, D.C.
 
-My objective is to become a full-time freelance programmer and/or secure lucrative job positions (I mean this in the sense that I am able to continue to learn alongside being paid) that entail work that particularly involves code, including software development, analysis of data, and machine learning.
+My objective is to become a full-time freelance programmer and/or secure lucrative job positions (I mean this in the sense that I am able to continue to learn alongside being paid) with a speciality in software development, artificial intelligence, cybersecurity, and numerical analysis.
 
 # What Languages I Know
 
