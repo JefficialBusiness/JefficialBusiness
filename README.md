@@ -2,7 +2,7 @@
 
 Hello, I’m Lou (or Jeffrey).
 
-My objective is to become a full-time freelance programmer and/or secure lucrative job positions (I mean this in the sense that I am able to continue to learn alongside being paid) with a speciality in software development, artificial intelligence, cybersecurity, and numerical analysis.
+I am currently a student at American University (AU) in Washington D.C. seeking a major in Computer Science. Particularly, it is my objective to specialize in software development, artificial intelligence, cybersecurity, and numerical analysis.
 
 # What Languages I Know
 
