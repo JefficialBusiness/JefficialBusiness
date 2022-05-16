@@ -4,7 +4,7 @@ Hello, I’m Jeff/Jeffrey W.
 
 I am an aspiring programmer who is studying at American University in Washington, D.C.
 
-My objective is to become a full-time freelance programmer and/or secure lucrative job positions (I mean this in the sense that I am able to continue to learn alongside being paid) that entail the development of software in particular.
+My objective is to become a full-time freelance programmer and/or secure lucrative job positions (I mean this in the sense that I am able to continue to learn alongside being paid) that entail work that particularly involves code, including software development, analysis of data, and machine learning.
 
 # What Languages I Know
 
