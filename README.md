@@ -26,12 +26,23 @@ Through late 2018 and early 2019, I was heavily involved in my high school's Rob
 In my senior year of high school, I took AP Computer Science Principles with a concentration on the Python language, which would mark my first experiences with such a language and immersive coding in general. In 2020, I received a score of 4 on my AP Computer Science Principles project/portfolio.
 
 ### 2021
-In my sophomore year of college at AU, I took the following courses:
+In the fall semester of my sophomore year of college at AU, I took the following courses:
 - CSC-148: Intro to Computer Science I
--- Concentration in Python Language
--- Final Grade: A
+  - Concentration in Python language
+  - Final Grade: A
+  - Link to Repository
 
 ### 2022
+In the spring semester of my sophomore year of college at AU, I took the following courses:
+- CSC-208: Intro to Computer Science II
+  - Concentration in Java language
+  - Final Grade: A-
+  - Link to Repository
+
+- DATA-312: Data Science Applications
+  - Concentration in R statistical language
+  - Final Grade: A
+  - Link to Repository
 
 <!---
 wjeff1648/wjeff1648 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
