@@ -6,7 +6,12 @@ I am currently a student at American University (AU) in Washington D.C. seeking 
 
 # What Languages I Know
 
-To date, I am quite proficient in Python overall, and am actively learning Java and R. My intention is to build on my repertoire as time progresses, so that I am well versed with a wide variety of languages, such as C#, C++, Rust, Lua, etc.
+To date, I have moderate experience with the following languages:
+- Python
+- Java
+- R
+
+My intention is to build on my repertoire as time progresses.
 
 # Technology Preferences & Knowledge
 
