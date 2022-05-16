@@ -1,6 +1,6 @@
 # Who I Am & What I Do
 
-Hello, I’m Lou.
+Hello, I’m Lou (or Jeffrey).
 
 I am an aspiring programmer who is studying at American University (AU) in Washington, D.C.
 
