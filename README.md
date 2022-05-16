@@ -30,19 +30,19 @@ In the fall semester of my sophomore year of college at AU, I took the following
 - CSC-148: Intro to Computer Science I
   - Concentration in Python language
   - Final Grade: A
-  - Link to Repository
+  - [Link to Repository(https://github.com/JefficialBusiness/CSC148_Archives_Fall21)]
 
 ### 2022
 In the spring semester of my sophomore year of college at AU, I took the following courses:
 - CSC-208: Intro to Computer Science II
   - Concentration in Java language
   - Final Grade: A-
-  - Link to Repository
+  - [Link to Repository()]
 
 - DATA-312: Data Science Applications
   - Concentration in R statistical language
   - Final Grade: A
-  - Link to Repository
+  - [Link to Repository(https://github.com/JefficialBusiness/DATA312_Archives_Spring22)]
 
 <!---
 wjeff1648/wjeff1648 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
