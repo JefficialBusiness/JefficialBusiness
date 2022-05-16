@@ -28,7 +28,8 @@ In my senior year of high school, I took AP Computer Science Principles with a c
 ### 2021
 In my sophomore year of college at AU, I took the following courses:
 - CSC-148: Intro to Computer Science I
-- - Concentra
+-- Concentration in Python Language
+-- Final Grade: A
 
 ### 2022
 
