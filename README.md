@@ -1,5 +1,3 @@
-# Who I Am & What I Do
-
 Hello, I’m Lou (or Jeffrey).
 
 I am currently a student at American University (AU) in Washington D.C. seeking a major in Computer Science. Particularly, it is my objective to specialize in the specific fields of software development, artificial intelligence, cybersecurity, and numerical analysis.
