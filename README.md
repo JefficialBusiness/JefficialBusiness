@@ -2,7 +2,7 @@
 
 Hello, I’m Jeff/Jeffrey W.
 
-I am an aspiring programmer who is studying at American University in Washington, D.C.
+I am an aspiring programmer who is studying at American University (AU) in Washington, D.C.
 
 My objective is to become a full-time freelance programmer and/or secure lucrative job positions (I mean this in the sense that I am able to continue to learn alongside being paid) that entail work that particularly involves code, including software development, analysis of data, and machine learning.
 
@@ -26,7 +26,9 @@ Through late 2018 and early 2019, I was heavily involved in my high school's Rob
 In my senior year of high school, I took AP Computer Science Principles with a concentration on the Python language, which would mark my first experiences with such a language and immersive coding in general. In 2020, I received a score of 4 on my AP Computer Science Principles project/portfolio.
 
 ### 2021
-In my sophomore year of college (American University) 
+In my sophomore year of college at AU, I took the following courses:
+- CSC-148: Intro to Computer Science I
+- - Concentra
 
 ### 2022
 
